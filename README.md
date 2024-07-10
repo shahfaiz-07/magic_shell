@@ -46,7 +46,7 @@ MagicShell is a collection of custom PowerShell commands inspired by magical spe
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/shahfaiz-07/magic_shell
+   git clone https://github.com/shahfaiz-07/magic_shell.git
    ```
 
 3. Source the PowerShell Script
